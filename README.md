@@ -11,7 +11,7 @@ so having to press `alt+3` seems like twice the work.
 I created this keyboard layout when I came over from PC's in 2006 and copied to
 every new mac since. Until recently UK keyboards didn't even have `#` symbol
 displayed, so many new uk mac users would google for this, hopefully this'll
-other mac programmers who also hate unnessary the `alt+3` key combo. 
+help other mac programmers who also hate unnessary the `alt+3` key combo. 
 
 ## Install
 
