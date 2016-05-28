@@ -15,7 +15,7 @@ help other mac programmers who also hate unnessary the `alt+3` key combo.
 
 ## Install
 
-1. [Download here](https://raw.githubusercontent.com/crisward/)
+1. [Download here](https://raw.githubusercontent.com/crisward/master/ukhash.keylayout)
 2. Copy file to `/Library/Keyboard Layouts/` (in the root of your mac hard drive)
 3. Open System Preferences > Keyboard > Input Sources
 4. Clip the `+` button (bottom left)
